@@ -63,28 +63,9 @@ MODEL GRAPH:
 
 <img width="512" height="365" alt="image" src="https://github.com/user-attachments/assets/acd787bd-5281-4f1b-802f-1aa39fac9189" />
 
+OUTPUT
 
-Program
-
-
-Output Waveform
-
-
-
-Tabulation
-
-
-
-Calculation
-
-
-
-Frequency Deviation Practical = 
-
-Modulation Index Practical	= 
-
-Modulation Index Theoretical	=
-
+![WhatsApp Image 2026-03-30 at 10 49 45 PM](https://github.com/user-attachments/assets/1ae52622-ed3b-4920-b790-05e940e691bc)
 
 
 RESULT:
